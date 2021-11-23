@@ -1,7 +1,7 @@
 ### Hi there 👋
 # **welcome**
 ## ***aditya engineering college***
-! [img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMy_O1YoleFR0F3oR3SI_EDK5dIHerDoLAZQ&usqp=CAU)
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMy_O1YoleFR0F3oR3SI_EDK5dIHerDoLAZQ&usqp=CAU)
 <!--
 **yellatipushpamoulika/yellatipushpamoulika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
