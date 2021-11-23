@@ -1,7 +1,7 @@
 ### Hi there 👋
 # **welcome**
 ## ***aditya engineering college***
-! [v img](https://st1.bollywoodlife.com/wp-content/uploads/2021/10/BTS-V4.jpg)
+! [img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMy_O1YoleFR0F3oR3SI_EDK5dIHerDoLAZQ&usqp=CAU)
 <!--
 **yellatipushpamoulika/yellatipushpamoulika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
